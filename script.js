@@ -16,5 +16,3 @@ document.addEventListener("DOMContentLoaded", function () {
     showDetailsBtn.setAttribute("aria-expanded", String(isVisible));
   });
 });
-
-let x = ;
